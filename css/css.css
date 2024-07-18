@@ -1,0 +1,113 @@
+/* General styles */
+* {
+    padding: 0;
+    margin: 0;
+}
+html, body {
+    font-family: "Source Serif 4", serif;
+    color: #333;
+    font-size: 15px;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+/* Container and image styles */
+.box {
+    width: 1400px;
+    height: 800px;
+    border: 1px solid #dedede;
+    margin: 40px auto;
+    background: #f9f9f9;
+}
+.all {
+    width: 1024px;
+    height: auto;
+    margin: 60px auto;
+    overflow: hidden;
+}
+.top-img {
+    width: 1024px;
+    height: auto;
+    font-size: 0;
+    position: relative;
+}
+.activeimg {
+    overflow: hidden;
+    height: auto;
+    position: relative;
+}
+.top-img .activeimg img {
+    width: 1024px;
+    height: auto;
+}
+.top-img .left,
+.top-img .right {
+    width: 80px;
+    height: 580px;
+    background: rgba(0,0,0,0.2);
+    position: absolute;
+    top: 0;
+    text-align: center;
+    line-height: 768px;	
+    cursor: pointer;
+}
+.top-img .left {
+    left: 0;
+}
+.top-img .right {
+    right: 0;
+}
+.top-img .left:hover,
+.top-img .right:hover {
+    background: rgba(0,0,0,0.5);
+}
+
+/* Thumbnail styles */
+.bot-img {
+    height: 180px; /* Adjust height to fit two rows of thumbnails */
+    width: 1024px;
+    margin-top: 15px;
+}
+.bot-img ul {
+    display: flex;
+    flex-wrap: wrap; /* Enable wrapping to create multiple rows */
+    justify-content: space-between;
+}
+.bot-img ul li {
+    width: calc(100% / 9 - 10px); /* Adjust width for nine items per row */
+    margin-bottom: 10px; /* Space between rows */
+    float: left;
+    border: 1px solid #fff;
+    cursor: pointer;
+    font-size: 0;
+}
+.bot-img ul li img {
+    width: 100%;
+}
+.bot-img ul li.active {
+    border: 1px solid #ff6600;
+}
+.hidden-on-load {
+    display: none;
+}
+
+/* Ensure hidden images and thumbnails are not displayed */
+.project1, .project2, .project3, .project4, .project5 {
+    display: none; /* All projects hidden by default */
+}
+.project1, .project1-thumbnails {
+    display: inline; /* Show project1 by default */
+}
+.activeimg img, .bot-img ul li img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+.bot-img {
+    display: block;
+}
