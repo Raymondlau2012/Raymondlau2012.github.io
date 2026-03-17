@@ -104,8 +104,8 @@
             <div class="row">
                 <div class="col-lg-4 col-xl-4 col-sm-4">
                     <div class="card-content bg-gray">
-                        <div class="number"><span class="counternumber">19</span></div>
-                        <p>19年工作经验</p>
+                        <div class="number"><span class="counternumber">18</span></div>
+                        <p>18年工作经验</p>
                         <div class="verticl-line"></div>
                     </div>
                 </div>
@@ -118,8 +118,8 @@
                 </div>
                 <div class="col-lg-4 col-xl-4 col-sm-4">
                     <div class="card-content bg-gray wow fadeIn">
-                        <div class="number"><span class="counternumber">6</span></div>
-                        <p>任职过6家公司</p>
+                        <div class="number"><span class="counternumber">5</span></div>
+                        <p>任职过5家公司</p>
                         <div class="verticl-line"></div>
                     </div>
                 </div>
@@ -456,7 +456,7 @@
                 <div class="col-lg-12">
                     <div class="section-head text-center wow fadeInDown" data-wow-delay=".4s">
                         <h2 class="head">职业履历</h2>
-                        <p class="content">六段工作经历，丰富了我在各行业的知识，</p>
+                        <p class="content">五段工作经历，丰富了我在各行业的知识，</p>
 						<p class="content">并对自己的目标有更深刻的认识</p>
                     </div>
                 </div>
@@ -597,7 +597,7 @@
 					            </div>
 					        </div>
 					        <div class="client-content">
-					            <p class="designation">2021/02 ~ 2025/02</p>
+					            <p class="designation">2021 ~ 2024</p>
 								<h3 class="client-title">业务数据分析师</h3>
 					            <p class="designation">深湾伟达科技有限公司</p>
 					        </div>
@@ -617,7 +617,7 @@
 					                    <svg class="staricon" viewbox="0 0 256 256"><path d="m234.5 114.38l-45.1 39.36l13.51 58.6a16 16 0 0 1-23.84 17.34l-51.11-31l-51 31a16 16 0 0 1-23.84-17.34l13.49-58.54l-45.11-39.42a16 16 0 0 1 9.11-28.06l59.46-5.15l23.21-55.36a15.95 15.95 0 0 1 29.44 0L166 81.17l59.44 5.15a16 16 0 0 1 9.11 28.06Z"></path></svg>
 					                    <svg class="staricon" viewbox="0 0 256 256"><path d="m234.5 114.38l-45.1 39.36l13.51 58.6a16 16 0 0 1-23.84 17.34l-51.11-31l-51 31a16 16 0 0 1-23.84-17.34l13.49-58.54l-45.11-39.42a16 16 0 0 1 9.11-28.06l59.46-5.15l23.21-55.36a15.95 15.95 0 0 1 29.44 0L166 81.17l59.44 5.15a16 16 0 0 1 9.11 28.06Z"></path></svg>
 					                </div>
-									<p class="text-white" style="font-size: 20px;">2025年初，进入日得利升科技，担任推广分析专员。主导1688电商平台产品推广，通过SEO优化、关键词布局、产品详情页设计提升搜索排名及转化率。</p>
+									<p class="text-white" style="font-size: 20px;">主导1688电商平台产品推广，通过SEO优化、关键词布局、产品详情页设计提升搜索排名及转化率。</p>
 									<p class="text-white" style="font-size: 20px;">策划并执行抖音、小红书、微信等多平台内容营销，单月累计触达用户超1万人次。</p>
 									<p class="text-white" style="font-size: 20px;">运用生意参谋工具分析用户行为数据，优化投放策略，降低获客成本，并通过A/B测试提升页面停留时间和询盘提交率。</p>
 					            </div>
